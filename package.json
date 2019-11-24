@@ -1,0 +1,15 @@
+{
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Dima Skibin <sixtynice77@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "console-log-hello-world": "^1.0.3"
+  }
+}
